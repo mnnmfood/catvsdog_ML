@@ -11,6 +11,6 @@ setup(  name='catvsdog_ML',
         author='JESUS',
         author_email='jesuga174@gmail.com',
         license='Proprietary',
-        install_requires=['tensorflow==2.13.0', 'keras==2.13.1', 'numpy==1.24.3', 'notebook==7.0.4', 'Pillow==9.5.0',
-                          'scipy==1.10.1'],
+        install_requires=['tensorflow==2.10.0', 'keras==2.10.0', 'numpy==1.24.3', 'notebook==7.0.4', 'Pillow==9.5.0',
+                          'scipy==1.10.1', 'matplotlib'],
         zip_safe=False)
